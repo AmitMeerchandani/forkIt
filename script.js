@@ -38,3 +38,8 @@ const typeEffect = () => {
     }
 }
 
+function sendPasswordResetEmail() {
+    // Here you would implement the logic to send an email with a password reset link
+    // For now, let's show an alert
+    alert("A password reset link has been sent to your email.");
+}
